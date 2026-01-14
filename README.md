@@ -6,6 +6,10 @@ An interactive **Power BI dashboard** was built to track key marketing KPIs such
 
 The dashboard provides a clear overview of campaign effectiveness and highlights actionable insights for optimization.
 
+## 📸 Dashboard Preview
+
+<img width="1122" height="631" alt="task 2" src="https://github.com/user-attachments/assets/efef95d0-f5a1-4f8c-88fd-c1245497450d" />
+
 ---
 
 ## 🎯 Objectives
@@ -80,10 +84,7 @@ The dataset contains simulated social media advertising data with fields such as
 
 ---
 
-## 📸 Dashboard Preview
 
-
----
 
 ## 📁 Repository Structure
 📦 Social-Media-Campaign-Performance-Tracker
